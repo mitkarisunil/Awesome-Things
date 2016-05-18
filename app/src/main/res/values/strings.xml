@@ -1,0 +1,288 @@
+<resources>
+    <string name="app_name">Awesome_Things</string>
+    <string name="title_activity_main">Awesome!!!</string>
+    <string-array name="awesome_Names">
+
+        <item> FREE WEBSITE + LOGO + HOSTING + INVOICING&lt;p>
+         &lt;/br> &lt;a href="http://html5up.net/">HtmlUp!&lt;/a>&lt;nbsp>&lt;/nbsp>: Learn Html5 &lt;p>
+         &lt;/br> &lt;a href="http://bootswatch.com/">BootsWatch&lt;/a>: BootsWatch &lt;p>
+         &lt;a href="http://templated.co/">Templated&lt;/a>: CSS and HTML templates &lt;p>
+         &lt;a href="https://wordpress.org/">WordPress&lt;/a>: Your new website &lt;p>
+         &lt;a href="https://www.strikingly.com/">Strikingly&lt;/a>: Beautiful logos &lt;p>
+         &lt;a href="https://withoomph.com/">WithWhomp&lt;/a>: Hipster Logo &lt;p>
+         &lt;a href="http://www.hipsterlogogenerator.com/">Hipster Logo Generater&lt;/a>: Free low-res version  &lt;p>
+         &lt;a href="http://www.squarespace.com/logo/">Square Shape&lt;/a>: Unlimited cloud service&lt;p>
+         &lt;a href="https://www.hive.im/">Hive&lt;/a>: Free Invoice Generator&lt;p>
+         &lt;a href="http://invoiceto.me/">Invoice To Me&lt;/a>: Alternative invoice&lt;p>
+         &lt;a href="https://www.free-invoice-generator.com/">Invoice Generator&lt;/a>: Insanely simple invoices&lt;p>
+         &lt;a href="http://slimvoice.co/">SlimVoice&lt;/a>: Simple invoices</item> &lt;p>
+
+        <item> FREE BUSINESS / PROJECT NAME GENERATORS &lt;p>
+        &lt;a href="http://thenameapp.com/">The Name App&lt;/a>: Available name for your idea &lt;p>
+        &lt;a href="http://www.naminum.com/">Namium&lt;/a>: Perfect company name&lt;p>
+        &lt;a href="http://shortdomainsearch.com/">Short Domain Search&lt;/a>: Single-word domain names&lt;p>
+        &lt;a href="http://wordoid.com/">WordOid&lt;/a>: Name for your business&lt;p>
+        &lt;a href="http://www.hipsterbusiness.name/">Hipster Business Name&lt;/a>: Hipster Business Name&lt;p>
+        &lt;a href="http://impossibility.org/">Impossibility&lt;/a>: Domain name generator&lt;p>
+        &lt;a href="http://www.leandomainsearch.com/">Learn Domain Search&lt;/a>: name for your website&lt;p>
+        &lt;a href="https://domainr.com/">Dominr&lt;/a>: Short URLs</item> &lt;p>
+
+        <item> WRITING / BLOGGING&lt;p>
+        &lt;a href="http://www.hemingwayapp.com/">Himing Way&lt;/a>: Make writing bold and clear&lt;p>
+       &lt;a href="https://free.grammarly.com/">Grammerly&lt;/a>: Finds and corrects mistakes&lt;p>
+       &lt;a href="http://www.zenpen.io/">Zen Pen&lt;/a>: Everyone’s stories and ideas&lt;p>
+       &lt;a href="http://liber.io/">Liberio&lt;/a>: Minimal writing tool of web&lt;p>
+       &lt;a href="https://wordpress.org/plugins/editorial-calendar/">Editorial Calender&lt;/a>: eBook creation and publishing&lt;p>
+       &lt;a href="https://www.storywars.net/">Story Wars&lt;/a>: Manage your blog&lt;p>
+       &lt;a href="http://www.aminstitute.com/headline/">Head Line Analyser&lt;/a>: Writing stories together&lt;p>
+       &lt;a href="https://wordpress.org/plugins/wp-hide-post/">WP hide Post&lt;/a>: Emotional marketing value headline analyzer&lt;p>
+       &lt;a href="https://wordpress.org/plugins/social-locker/">Social Locker&lt;/a>: Control the visibility of items&lt;p>
+       &lt;a href="http://e.ggtimer.com/">Egg Timer&lt;/a>: Set a time and bookmark</item> &lt;p>
+
+        <item> FIND (TRENDING) CONTENT (IDEAS)&lt;p>
+       &lt;a href="http://www.portent.com/tools/title-maker">Portent&lt;/a>: Content idea generator&lt;p>
+        &lt;a href="http://www.google.com/trends/hottrends/visualize?pn=p1">Google Trends&lt;/a>: Displaying trending searches&lt;p>
+        &lt;a href="http://buzzsumo.com/">Buzzsumo&lt;/a>: Analyze what content performs best&lt;p>
+        &lt;a href="http://www.hubspot.com/blog-topic-generator">Hubspot blog topic generator&lt;/a>: Custom blog ideas&lt;p>
+        &lt;a href="http://www.swayy.co/">Swayy&lt;/a>: Discover the most engaging content&lt;p>
+        &lt;a href="https://plus.google.com/explore/_">Google+ whats hot&lt;/a>: Google+&lt;p>
+        &lt;a href="https://twitter.com/">Twitter Trending&lt;/a>: Twitter&lt;p>
+        &lt;a href="http://www.quora.com/Content-Strategy">Quora&lt;/a>: Quora&lt;p>
+        &lt;a href="http://www.reddit.com/">Reddit&lt;/a>: Reddit</item>
+
+        <item> FREE SEO + WEBSITE ANALYZERS&lt;p>
+        &lt;a href="https://moz.com/researchtools/ose/">Open Site Explorer&lt;/a>:  Tool for link analysis&lt;p>
+        &lt;a href="https://ahrefs.com/">Ahref&lt;/a>:Site explorer and backlink checker&lt;p>
+        &lt;a href="http://www.quicksprout.com/">Quick Sprout&lt;/a>: Complete analysis of your website&lt;p>
+        &lt;a href="https://wordpress.org/plugins/wordpress-seo/">Wordpress SEO by yoast&lt;/a>:  Have a fully optimized WordPress site&lt;p>
+        &lt;a href="http://seositecheckup.com/">SEO site checkup&lt;/a>:  Check website’s SEO problems &lt;p>
+        &lt;a href="https://marketing.grader.com/">Hubspot marketing grader&lt;/a>G: rade your marketing&lt;p>
+        &lt;a href="http://www.similarweb.com/">similarWeb&lt;/a>: Analyze website statistics for any domain&lt;p>
+        &lt;a href="http://www.alexa.com/">Alexa Ranking&lt;/a>:  Analyze any site’s rank&lt;p>
+        &lt;a href="https://serps.com/tools/rank_checker">SERPs Rank Checker&lt;/a>: keyword rank and SERP checker.&lt;p>
+        &lt;a href="http://openlinkprofiler.org/">Open Link Profiler&lt;/a>: The freshest backlinks&lt;p>
+        &lt;a href="http://keywordtool.io/">keywordtool.io&lt;/a>: Alternative to Google Keyword Planner&lt;p>
+        &lt;a href="http://www.google.com/analytics/">Google Analytics&lt;/a>: Google Analytics&lt;p>
+        &lt;a href="http://adwords.google.com/keywordplanner">Google keyword Planner&lt;/a>: Google keyword Planner&lt;p>>
+        &lt;a href="https://www.google.com/webmasters/tools/home?hl=en">Webmaster tools&lt;/a>: Webmaster tools&lt;p>
+        &lt;a href="http://nibbler.silktide.com/">Nibbler&lt;/a>: Test any website&lt;p>
+        &lt;a href="http://www.browseo.net/">Browseo&lt;/a>: How search engines see your website&lt;p>
+        &lt;a href="http://www.internetmarketingninjas.com/seo-tools/google-sitemap-generator/">Broken Links&lt;/a>: Find broken links, redirects&lt;p>
+        &lt;a href="http://www.copyscape.com/">CopyScape&lt;/a>: Search for copies of your page&lt;p>
+        &lt;a href="http://www.woorank.com/">Woorank&lt;/a>: Website review and SEO tool&lt;p>
+        &lt;a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Insights&lt;/a>: Performance of your site&lt;p>
+        &lt;a href="http://tools.pingdom.com/fpt/">Pingdom website Speed test&lt;/a>:Test and the load time of a site&lt;p>
+        &lt;a href="http://gtmetrix.com/">GTMetrics&lt;/a>: Analyze your page’s speed&lt;p>
+        &lt;a href="https://moz.com/local/search">Moz Local&lt;/a>: Check your local listings&lt;p>
+        &lt;a href="xml site maps">&lt;/a>: Sitemap generator&lt;p>
+        &lt;a href="http://validator.w3.org/">W3C validator&lt;/a>: Easy-to-use markup validation service&lt;p>
+        &lt;a href="https://ecommerce.shopify.com/grader">Shopify Ecommerce Report &lt;/a>: Get your free Ecommerce report</item>
+
+        <item> FREE IMAGE OPTIMIZERS&lt;p>
+        &lt;a href="https://tinyjpg.com/">TinyJPG&lt;/a>: Compress images &lt;p>
+        &lt;a href="https://tinypng.com/">tinyPNG&lt;/a>: Compress images&lt;p>
+        &lt;a href="https://compressor.io/">Compressor.io&lt;/a>:  Optimize and compress your images online&lt;p>
+        &lt;a href="https://kraken.io/web-interface">kraken&lt;/a>: Optimize your images and accelerate your websitess&lt;p>
+        &lt;a href="http://www.imageoptimizer.net/Pages/Home.aspx">ImageOptimizer&lt;/a>:  Resize, compress and optimize your image files&lt;p>
+        &lt;a href="https://imageoptim.com/">ImageOptim&lt;/a>: Makes images take up less disk space and load faster.&lt;p>
+        &lt;a href="https://wordpress.org/plugins/wp-smushit/">smush.it&lt;/a>: Image optimizer WordPress plugin&lt;p></item>
+
+        <item>FREE IMAGE EDITORS&lt;p>
+        &lt;a href="https://www.canva.com/">canva&lt;/a>
+        &lt;a href="http://apps.pixlr.com/editor/">pixlr&lt;/a>
+        &lt;a href="https://evernote.com/skitch/">skitch&lt;/a>
+        &lt;a href="http://www.easel.ly/">easel.ly&lt;/a>
+        &lt;a href="http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images/">Social image Resize Tool&lt;/a>
+        &lt;a href="https://placeit.net/">Placeit&lt;/a>
+        &lt;a href="http://www.recitethis.com/">Recite&lt;/a>
+        &lt;a href="http://memegenerator.net/">meme generator&lt;/a></item>
+
+       <item>COLLECT and SEND EMAILS FOR FREE&lt;p>
+        &lt;a href="https://wordpress.org/plugins/contact-form-7/">Contact Form 7&lt;/a>: Famous WordPress plugin to collect email addresses&lt;p>
+        &lt;a href="http://mailchimp.com/">MallChimp&lt;/a>: Send 12,000 emails to 2,000 subscribers for free&lt;p>
+        &lt;a href="https://www.manycontacts.com/">ManyContactsbar&lt;/a>: Free contact form sits on top of your website&lt;p>
+        &lt;a href="http://hellobar.com/">HelloBar&lt;/a>: Get more email subscribers&lt;p>
+        &lt;a href="https://sumome.com/app/list-builder">Sumome List Builder&lt;/a>: Collect email addresses with light box popoverBoost your conversion rates — Wordpress only&lt;p>
+        &lt;a href="https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/">: Scroll Triggered Box&lt;/a>&lt;p>
+        &lt;a href="http://sumome.com/app/scroll-box">Sumome Scroll Box&lt;/a>: Capture more email addresses, politely.</item>
+
+        <item>FREE SOCIAL MEDIA + COMMUNITY MANAGEMENT + SURVEYS&lt;p>
+            &lt;a href="http://writerack.com/">WriteRack&lt;/a>&lt;p>
+        &lt;a href="http://www.tryspruce.com/">Spruce&lt;/a>&lt;p>
+        &lt;a href="http://coschedule.com/click-to-tweet">Click To Tweet&lt;/a>&lt;p>
+        &lt;a href="http://mytweetlinks.com/">MyTweetLinks&lt;/a>&lt;p>
+        &lt;a href="http://www.latergram.me/">laterGram&lt;/a>&lt;p>
+        &lt;a href="https://wordpress.org/plugins/pinterest-pin-it-button-for-images/">WordPress Pin it Buttons forImages&lt;/a>&lt;p>
+        &lt;a href="http://www.sharedcount.com/">SharedCount&lt;/a>&lt;p>
+        &lt;a href="http://www.justunfollow.com/">JustUnfollow&lt;/a>&lt;p>
+        &lt;a href="https://www.socialrank.com/">SocialRank&lt;/a>&lt;p>
+        &lt;a href="http://blog.klout.com/2014/06/klout-browser-extensions/">KLout&lt;/a>&lt;p>
+        &lt;a href="https://ritetag.com/hashtag-academy/ritetag-browser-extensions-scheduling-productivity">Ritetag&lt;/a>
+        &lt;a href="https://chrome.google.com/webstore/detail/social-analytics/pgckigmaefoaemjpijdepakcghjkggmg/related">Social Analytics&lt;/a>
+        &lt;a href="http://crowdriff.com/riffle/">Rifle&lt;/a>
+        &lt;a href="https://bufferapp.com/">Buffer Free Plan&lt;/a>
+        &lt;a href="https://bitly.com/">Bitly&lt;/a>
+        &lt;a href="http://filament.io/flare">Flament&lt;/a>
+        &lt;a href="http://www.addthis.com/">AddThis&lt;/a>
+        &lt;a href="https://sumome.com/app/share">Sumome Share&lt;/a>
+        &lt;a href="https://wordpress.org/plugins/digg-digg/installation/">Digg Digg &lt;/a>
+       &lt;a href="https://disqus.com/">Disqus&lt;/a>
+       &lt;a href="http://www.typeform.com/">TypeForm&lt;/a>
+       &lt;a href="http://tally.tl/">Tally&lt;/a></item>
+
+        <item> A/B TESTS and GROWTH HACKING&lt;p>
+        &lt;a href="http://petithacks.com/">PetitHacks&lt;/a>&lt;p>
+        &lt;a href="https://www.optimizely.com/">Optimizely&lt;/a>&lt;p>
+        &lt;a href="http://write%20better%20content%20and%20have%20a%20fully%20optimized%20wordpress%20site/">Hello Bar &lt;/a>&lt;p>
+        &lt;a href="https://growthhackers.com/">GrowthHackers&lt;/a></item>
+
+
+
+        <item>FREE DESIGN RESOURCES&lt;p>
+       &lt;a href="http://freebbble.com/">Freebbble&lt;/a>
+        &lt;a href="https://dribbble.com/search?q=freebie">Dribble&lt;/a>&lt;p>
+       &lt;a href="http://graphicburger.com/">Graphic Burger&lt;/a>&lt;p>
+       &lt;a href="http://pixelbuddha.net/">Pixel Budda&lt;/a>&lt;p>
+       &lt;a href="http://www.premiumpixels.com/">PremiumPixels&lt;/a>&lt;p>
+        &lt;a href="http://fribbble.com/">Fribble&lt;/a>&lt;p>
+        &lt;a href="http://freebiesbug.com/">FribiesBug&lt;/a>&lt;p>
+        &lt;a href="http://365psd.com/">365PSD&lt;/a>&lt;p>
+            &lt;a href="http://dbfreebies.co/">Dbf&lt;/a>&lt;p>
+        &lt;a href="https://marvelapp.com/resources/">Marvel&lt;/a>&lt;p>
+        &lt;a href="http://uispace.net/">UI Space&lt;/a>&lt;p>
+        &lt;a href="http://www.pixeden.com/free-design-web-resources">: Free Selection Of Pixeden&lt;/a>&lt;p>
+        &lt;a href="https://creativemarket.com/free-goods">: Free Selection Of Creative Market&lt;/a>&lt;p>
+        &lt;a href="http://www.teehanlax.com/tools/iphone"/>TheehanLax&lt;/a>: DiOS 8 GUI PSD (iPhone 6)&lt;p>
+        &lt;a href="http://www.teehanlax.com/tools/ipad/">Teehan+Lax&lt;/a>: iPad GUI PSD.&lt;p>
+        &lt;a href="http://www.freepik.com/">Freepik&lt;/a>: iFree graphic resources for everyone.&lt;p>
+        &lt;a href="http://www.techandall.com/">Tech and All&lt;/a>: PSD, Tech News, and other resources for free&lt;p>
+        &lt;a href="http://www.invisionapp.com/tethr">Tethr&lt;/a>: The most beautiful IOS design KIT ever&lt;p></item>
+
+        <item> COLOR PICKERS&lt;p>
+            &lt;a href="http://www.materialpalette.com/">Material Palette&lt;/a>:  Material Design color palette&lt;p>
+            &lt;a href="http://flatuicolors.com/">Flat UI Colors&lt;/a>:  Beautiful flat colors&lt;p>
+            &lt;a href="http://coolors.co/">colors&lt;/a>: color schemes generator&lt;p>
+            &lt;a href="http://bjango.com/mac/skalacolor/">Skala Color&lt;/a>: An extraordinary color picker&lt;p>
+
+        &lt;a href="http://couleursapp.com/">Couleurs&lt;/a>: app for grabbing and tweaking colors you see on screen&lt;p>
+
+        &lt;a href="http://www.materialui.co/colors">Material UI Colors&lt;/a>: Material ui color palette for Android, Web and iOS&lt;p>
+
+        &lt;a href="http://colorfulgradients.tumblr.com/">Colorful Gradients&lt;/a>: Gradients automatically created by a computer&lt;p>
+
+        &lt;a href="http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/">: Extract dominant colours from images&lt;/a>&lt;p>
+
+        &lt;a href="http://brandcolors.net/">Brand Colors&lt;/a>:  Colors used by famous brands&lt;p>
+
+        &lt;a href="http://paletton.com/">Paletton&lt;/a>: The color scheme designer&lt;p>
+
+        &lt;a href="http://www.0to255.com/">0 to 255&lt;/a>: find variations of any color&lt;p>
+
+        &lt;a href="http://www.colourlovers.com/">Colour Lovers&lt;/a>:  Create and share colors, palettes, and patterns&lt;p>
+
+        &lt;a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC&lt;/a>:Color combinations from the Kuler community&lt;p>
+
+        &lt;a href="http://bootflat.github.io/color-picker.html">Bootflat&lt;/a>:  Perfect colors for flat designs&lt;p>
+
+        &lt;a href="http://hex.colorrrs.com/">Hex Colorrrs&lt;/a>: Hex to RGB converter&lt;p>
+
+        &lt;a href="http://getuicolors.com/">Get UI Colors&lt;/a>: Get awesome UI colors&lt;p>
+
+        &lt;a href="https://www.coleure.com/">Coleure&lt;/a>: Smart color picker&lt;p>
+
+        &lt;a href="http://colllor.com/">Colllor&lt;/a>: Color palette generator&lt;p>
+
+        &lt;a href="https://chrome.google.com/webstore/detail/palette-for-chrome/oolpphfmdmjbojolagcbgdemojhcnlod">Palette for Chrome&lt;/a>: Creates a color palette from any image&lt;p>
+       </item>
+
+        <item>INSPIRATION&lt;p>
+        &lt;a href="http://www.materialup.com/">MaterialUp&lt;/a>: Daily material design inspiration&lt;p>
+            &lt;a href="http://fltdsgn.com/">FLTDSGN&lt;/a>: Daily showcase of the best flat UI design websites and apps&lt;p>
+            &lt;a href="http://www.siteinspire.com/">Site Inspire&lt;/a>: Web design inspiration.&lt;p>
+            &lt;a href="http://ui-cloud.com/">UI Cloud&lt;/a>: The largest user interface design database in the world.&lt;p>
+            &lt;a href="http://www.gomoodboard.com/">Moodboard&lt;/a>: Build a beautiful moodboard and share the result.&lt;p>
+            &lt;a href="https://www.crayon.co/">Crayon&lt;/a>: comprehensive collection of marketing designs&lt;p>
+            &lt;a href="http://land-book.com/">Land-Book&lt;/a>:  Product landing pages gallery.&lt;p>
+            &lt;a href="http://ocean.ink/">Ocean&lt;/a>: A community of designers sharing feedback&lt;p>
+            &lt;a href="https://dribbble.com/">Dribbble&lt;/a>: Show and tell for designers.&lt;p>
+            &lt;a href="https://www.behance.net/">Behance&lt;/a>:  Showcase and discover creative work&lt;p>
+            &lt;a href="http://www.pttrns.com/">Pttrns&lt;/a>:  Mobile user interface patterns&lt;p>
+        &lt;a href="https://www.pinterest.com/warmarc/flat-ui-design/">Flat UI Design&lt;/a>: Useful board I discovered thanks &lt;p>
+        &lt;a href="http://www.awwwards.com/">Awwwards&lt;/a>:  Awards for design, creativity and innovation&lt;p>
+        &lt;a href="http://www.thestarterkit.info/">The Starter Kit&lt;/a>: Curated resources for developers and designers&lt;p>
+        &lt;a href="https://onepagelove.com/">One Page Love&lt;/a>: Resource for one page website inspiration&lt;p>
+        &lt;a href="http://www.uiparade.com/">UI Parade&lt;/a>: User interface design tools and design inspiration&lt;p>
+            &lt;a href="https://www.thebestdesigns.com/">The Best Designs&lt;/a>:  The best of web design.&lt;p>
+            &lt;a href="http://agiledesigners.com/">Agile Designers&lt;/a>: Best resources for designers and developers&lt;p>
+        &lt;a href="https://niice.co/">Niice&lt;/a>:  A search engine with taste&lt;p></item>
+
+
+
+
+        <item>FREE STOCK PHOTOGRAPHY&lt;p>
+        &lt;a href="">&lt;/a>: &lt;p>
+            &lt;a href="http://www.sitebuilderreport.com/stock-up">Stock Up&lt;/a>: Best free stock photo websites in one place&lt;p>
+            &lt;a href="http://www.pexels.com/">Pexels&lt;/a>: Best free photos in one place&lt;p>
+            &lt;a href="http://allthefreestock.com/">All The Free Stock&lt;/a>:  Free stock images, icons, and videos&lt;p>
+            &lt;a href="http://unsplash.com/">Unsplash&lt;/a>: high-resolution photos&lt;p>
+            &lt;a href="http://www.splashbase.co/">Splashbase&lt;/a>: Search and discover free, hi res photos  and videos&lt;p>
+            &lt;a href="http://startupstockphotos.com/">Startup Stock Photos&lt;/a>: Go. Make something.&lt;p>
+            &lt;a href="http://jaymantri.com/">Jay Mantri&lt;/a>: Free pics. do anything (CC0). Make magic&lt;p>
+            &lt;a href="http://moveast.me/">Moveast&lt;/a>: This is a journey of a portuguese guy moving east&lt;p>
+            &lt;a href="http://travelcoffeebook.com/">Travel Coffee Book&lt;/a>: Sharing beautiful travel moments&lt;p>
+            &lt;a href="http://www.designerspics.com/">Designers Pics&lt;/a>:  Free photographs for your personal and commercial use&lt;p>
+            &lt;a href="http://deathtothestockphoto.com/">Death to the Stock Photo&lt;/a>: Free photos sent to you every month&lt;p>
+            &lt;a href="http://foodiesfeed.com/">Foodie’s Feed&lt;/a>: Free food pictures in hi-res&lt;p>
+            &lt;a href="http://mazwai.com/">Mazwai&lt;/a>: Free creative commons HD video clips and footages&lt;p>
+            &lt;a href="http://jeshoots.com/">Jéshoots&lt;/a>: New modern free photos&lt;p>
+            &lt;a href="http://superfamous.com/">Super Famous&lt;/a>: Photos by Dutch interaction designer Folkert Gorte&lt;p>
+            &lt;a href="http://picography.co/">Picography&lt;/a>: Free hi-resolution photos&lt;p>
+            &lt;a href="http://pixabay.com/">Pixabay&lt;/a>:  Free high quality images&lt;p>
+            &lt;a href="http://magdeleine.co/">Magdeleine&lt;/a>:  A free high-resolution photo every day&lt;p>
+            &lt;a href="http://snapographic.com/">Snapographic&lt;/a>: Free stock photos for personal and commercial use&lt;p>
+            &lt;a href="http://littlevisuals.co/">Little Visuals&lt;/a>: 7 hi-res images in your inbox every 7 days&lt;p>
+            &lt;a href="http://splitshire.com/">Splitshire&lt;/a>:  Delicious free stock photos&lt;p>
+            &lt;a href="http://nos.twnsnd.co/">New Old Stock&lt;/a>: Vintage photos from the public archives&lt;p>
+            &lt;a href="http://picjumbo.com/">Picjumbo&lt;/a>: Totally free photos&lt;p>
+            &lt;a href="http://www.lifeofpix.com/">Life of Pix&lt;/a>: Free high-resolution photos&lt;p>
+            &lt;a href="http://www.gratisography.com/">Gratisography&lt;/a>: Free high-resolution photos.&lt;p>
+            &lt;a href="http://isorepublic.com/">ISO Republic&lt;/a>: High-quality, free photos for creatives&lt;p>
+            &lt;a href="http://photos.bucketlistly.com/">Bucketlistly&lt;/a>: &lt;p>
+            &lt;a href="">&lt;/a>: &lt;p>
+       </item>
+
+
+        <item> FREE TYPOGRAPHY &lt;p>
+        &lt;a href="http://www.typegenius.com/">TypeGenius&lt;/a>: Find the perfect font combo for your next project.&lt;p>
+            &lt;a href="http://www.fontsquirrel.com/">Font Squirrel&lt;/a>: 100% free commercial fonts&lt;p>
+            &lt;a href="http://www.fontface.ninja/">FontFaceNinja&lt;/a>: Browser extension to find the web fonts a site uses&lt;p>
+            &lt;a href="https://www.google.com/fonts">Google Fonts&lt;/a>:  Free, open-source fonts optimized for the web&lt;p>
+            &lt;a href="http://hellohappy.org/beautiful-web-type/">Beautiful Web Type&lt;/a>: Best typefaces from the Google web fonts directory&lt;p>
+            &lt;a href="http://www.dafont.com/">DaFont&lt;/a>:  Archive of freely downloadable fonts&lt;p>
+            &lt;a href="http://www.1001freefonts.com/">1001 Free Fonts&lt;/a>: A huge selection of free fonts&lt;p>
+            &lt;a href="http://www.fontpark.net/en/">FontPark&lt;/a>: The web’s largest archive of free fonts&lt;p>
+            &lt;a href="http://font-to-width.com/">Font-to-width&lt;/a>:  Fit pieces of text snugly within their containers&lt;p></item>
+
+        <item>FREE ICONS&lt;p>
+            &lt;a href="http://fontello.com/">fontello&lt;/a>: Icon font generator&lt;p>
+            &lt;a href="http://www.flaticon.com/">Flat Icon&lt;/a>: A search engine for 16000+ glyph vector icons&lt;p>
+            &lt;a href="https://github.com/google/material-design-icons/releases/tag/1.0.0">Material Design Icons&lt;/a>: open-source glyphs by Google&lt;p>
+            &lt;a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome&lt;/a>: The iconic font and CSS toolkit&lt;p>
+            &lt;a href="http://glyphsearch.com/">Font Awesome&lt;/a>The iconic font and CSS toolkit.&lt;p>
+            &lt;a href="http://makeappicon.com/">MakeAppIcon&lt;/a>Generate App Icons of all sizes with a click&lt;p>
+            &lt;a href="http://www.endlessicons.com/">Endless Icons: &lt;/a>Free flat icons and creative stuff&lt;p>
+            &lt;a href="https://icomoon.io/">Ico Moon&lt;/a>4000+ free vector icons, icon generator&lt;p>
+            &lt;a href="http://thenounproject.com/">The Noun Project;/a>Thousands of glyph icons&lt;p>
+            &lt;a href="https://github.com/google/material-design-icons/releases/tag/1.0.0">Material Design Icons&lt;/a>750 Free open-source glyphs by Google&lt;p>
+            &lt;a href="https://www.iconfinder.com/free_icons">Icon Finder&lt;/a>Free icon section of the website&lt;p>
+        </item>
+
+
+
+
+
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">main2</string>
+    <string name="title_activity_lin">Lin</string>
+</resources>
